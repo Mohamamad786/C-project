@@ -1,0 +1,7 @@
+01 user            SS 000000900
+02 user            SS 000000900
+03 event                Admin           010 024.25
+04 event                FullStandard    006 024.25
+05 BuyStandard     FullStandard    000050
+06 SellStandard    SS 000000100
+00 Admin           AA 999999999

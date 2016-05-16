@@ -1,0 +1,16 @@
+login
+User1
+create
+AAAAAAAAAAAAAAAAA
+create
+User2
+logout
+end
+User1
+Invalid input: Exceed max size of field.
+Invalid input: That name conflicts with a name on the system
+0
+User1
+Invalid input: Exceed max size of field.
+Invalid input: That name conflicts with a name on the system
+0

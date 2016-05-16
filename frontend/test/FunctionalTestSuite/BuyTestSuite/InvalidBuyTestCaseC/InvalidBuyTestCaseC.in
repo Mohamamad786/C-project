@@ -1,0 +1,23 @@
+login
+User3
+buy
+test1
+AAAAAAAAAAAAAAAAA
+buy
+test1
+nonuser
+buy
+test1
+User4
+logout
+end
+User3
+Invalid input: Exceed max size of field.
+Invalid input: xstreambackend.User does not exist
+Invalid input: This user is not the seller for the event.
+0
+User3
+Invalid input: Exceed max size of field.
+Invalid input: xstreambackend.User does not exist
+Invalid input: This user is not the seller for the event.
+0

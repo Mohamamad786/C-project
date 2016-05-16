@@ -1,0 +1,8 @@
+sudo: false
+
+language: cpp
+compiler:
+  - gcc
+  - clang
+
+script: mkdir frontend/build && cd frontend/build && cmake .. && make && cd ../test/FunctionalTestSuite && bash ./FunctionalTestSuite.sh

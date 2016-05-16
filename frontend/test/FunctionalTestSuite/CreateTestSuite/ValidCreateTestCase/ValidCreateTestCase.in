@@ -1,0 +1,18 @@
+login
+User1
+create
+newuser
+FS
+999.99
+logout
+end
+User1
+Invalid input: That name conflicts with a name on the system
+command only available to logged in user.
+command only available to logged in user.
+0
+User1
+Invalid input: That name conflicts with a name on the system
+command only available to logged in user.
+command only available to logged in user.
+0

@@ -1,0 +1,14 @@
+login
+User1
+create
+testuser
+FS
+999999999
+logout
+end
+User1
+Invalid input: Exceed max size of field.
+0
+User1
+Invalid input: Exceed max size of field.
+0
